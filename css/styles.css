@@ -219,24 +219,4 @@ form button:hover {
     text-decoration:none;
     color: #000000;
 }
-.skills h2 {
 
-    padding-left: 150px;
-}
-.skills li{
-
-    color: #ffffff;
-    width: 20%;
-    background: #2c2d2d;
-    padding: 5px;
-    padding-left: 50px;
-    border-radius: 60px;
-    box-shadow: 0 0 10px rgba(5, 5, 5, 0.1);
-    margin-top: 10px;
-    margin-left: 180px; 
-    margin-bottom: 10px;
-    overflow: hidden;
-}
-.skills li :hover{
-    color: aquamarine;
-}
